@@ -104,6 +104,11 @@ I use data to help organisations understand performance, identify opportunities,
 - Google Foundations: Data, Data, Everywhere — Google / Coursera, 2022
 - Banking Operation — FITC, 2017
 
+
+## Featured Portfolio Project
+
+- 📊 [Power BI Business Performance Dashboard](https://github.com/Ayodele-Eweje/Ayodele-Eweje/tree/main/business-performance-dashboard) — executive performance reporting, revenue and profitability analysis, DAX measures, and a synthetic dataset for demonstration.
+
 ## Let's Connect
 
 I welcome opportunities to collaborate on Business Intelligence, data analytics, commercial performance and process improvement initiatives.
