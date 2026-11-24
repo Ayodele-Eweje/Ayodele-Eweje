@@ -1,0 +1,29 @@
+{
+  "name": "Ayodele Business Performance",
+  "dataColors": [
+    "#176B87",
+    "#64CCC5",
+    "#DAFFFB",
+    "#FFB000",
+    "#6C63FF",
+    "#D95D39",
+    "#4F772D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#17324D",
+  "tableAccent": "#176B87",
+  "visualStyles": {
+    "*": {
+      "*": [
+        {
+          "fontFamily": "Aptos",
+          "color": {
+            "solid": {
+              "color": "#17324D"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
