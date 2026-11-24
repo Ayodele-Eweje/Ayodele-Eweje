@@ -1,0 +1,43 @@
+// Create these measures in Power BI after loading sales_performance_sample.csv
+
+Total Revenue = SUM(Sales[Revenue])
+
+Total Cost = SUM(Sales[Cost])
+
+Gross Profit = [Total Revenue] - [Total Cost]
+
+Gross Margin % = DIVIDE([Gross Profit], [Total Revenue], 0)
+
+Total Orders = DISTINCTCOUNT(Sales[OrderID])
+
+Units Sold = SUM(Sales[Units])
+
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+Revenue YTD = TOTALYTD([Total Revenue], 'Date'[Date])
+
+Revenue Previous Year =
+CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('Date'[Date]))
+
+Revenue YoY % =
+DIVIDE([Total Revenue] - [Revenue Previous Year], [Revenue Previous Year], 0)
+
+Profit Previous Year =
+CALCULATE([Gross Profit], SAMEPERIODLASTYEAR('Date'[Date]))
+
+Profit YoY % =
+DIVIDE([Gross Profit] - [Profit Previous Year], [Profit Previous Year], 0)
+
+// Date table (Modeling > New table)
+Date =
+ADDCOLUMNS(
+    CALENDAR(MIN(Sales[Date]), MAX(Sales[Date])),
+    "Year", YEAR([Date]),
+    "Month Number", MONTH([Date]),
+    "Month", FORMAT([Date], "MMM"),
+    "Year Month", FORMAT([Date], "YYYY-MM"),
+    "Quarter", "Q" & FORMAT([Date], "Q")
+)
+
+// Mark Date as the model's date table and create a one-to-many relationship:
+// Date[Date] (one) -> Sales[Date] (many)
