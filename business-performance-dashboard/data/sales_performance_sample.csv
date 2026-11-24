@@ -1,0 +1,649 @@
+Date,OrderID,Region,Product,Channel,CustomerSegment,Units,Revenue,Cost
+2024-01-01,ORD1001,Lagos,Core Services,Direct Sales,SME,2,36000,17280
+2024-01-04,ORD1002,Abuja,Enterprise Solutions,Online,Public Sector,9,454500,222705
+2024-01-07,ORD1003,Port Harcourt,Consulting,Partners,Retail,16,328000,164000
+2024-01-10,ORD1004,Kano,Premium Services,Corporate,Enterprise,23,1219000,621690
+2024-01-13,ORD1005,Ibadan,Digital Products,Direct Sales,SME,30,690000,358800
+2024-01-16,ORD1006,Lagos,Core Services,Online,Public Sector,2,111000,58830
+2024-01-19,ORD1007,Abuja,Enterprise Solutions,Partners,Retail,9,229500,123930
+2024-01-22,ORD1008,Port Harcourt,Consulting,Corporate,Enterprise,16,928000,510400
+2024-01-25,ORD1009,Kano,Premium Services,Direct Sales,SME,23,644000,360640
+2024-01-28,ORD1010,Ibadan,Digital Products,Online,Public Sector,30,1815000,1034550
+2024-01-31,ORD1011,Lagos,Core Services,Partners,Retail,2,61000,35380
+2024-01-03,ORD1012,Abuja,Enterprise Solutions,Corporate,Enterprise,9,567000,334530
+2024-01-06,ORD1013,Port Harcourt,Consulting,Direct Sales,SME,16,528000,316800
+2024-01-09,ORD1014,Kano,Premium Services,Online,Public Sector,23,1506500,918965
+2024-01-12,ORD1015,Ibadan,Digital Products,Partners,Retail,30,1065000,660300
+2024-01-15,ORD1016,Lagos,Core Services,Corporate,Enterprise,2,136000,85680
+2024-01-18,ORD1017,Abuja,Enterprise Solutions,Direct Sales,SME,9,342000,218880
+2024-01-21,ORD1018,Port Harcourt,Consulting,Online,Public Sector,16,1128000,733200
+2024-02-08,ORD1019,Abuja,Premium Services,Partners,Enterprise,5,302500,148225
+2024-02-11,ORD1020,Port Harcourt,Digital Products,Corporate,SME,12,366000,183000
+2024-02-14,ORD1021,Kano,Core Services,Direct Sales,Public Sector,19,1197000,610470
+2024-02-17,ORD1022,Ibadan,Enterprise Solutions,Online,Retail,26,858000,446160
+2024-02-20,ORD1023,Lagos,Consulting,Partners,Enterprise,33,2161500,1145595
+2024-02-23,ORD1024,Abuja,Premium Services,Corporate,SME,5,177500,95850
+2024-02-26,ORD1025,Port Harcourt,Digital Products,Direct Sales,Public Sector,12,816000,448800
+2024-02-29,ORD1026,Kano,Core Services,Online,Retail,19,722000,404320
+2024-02-03,ORD1027,Ibadan,Enterprise Solutions,Partners,Enterprise,26,1833000,1044810
+2024-02-06,ORD1028,Lagos,Consulting,Corporate,SME,33,1336500,775170
+2024-02-09,ORD1029,Abuja,Premium Services,Direct Sales,Public Sector,5,365000,215350
+2024-02-12,ORD1030,Port Harcourt,Digital Products,Online,Retail,12,516000,309600
+2024-02-15,ORD1031,Kano,Core Services,Partners,Enterprise,19,1434500,875045
+2024-02-18,ORD1032,Ibadan,Enterprise Solutions,Corporate,SME,26,1183000,733460
+2024-02-21,ORD1033,Lagos,Consulting,Direct Sales,Public Sector,33,2574000,1621620
+2024-02-24,ORD1034,Abuja,Premium Services,Online,Retail,5,240000,153600
+2024-02-27,ORD1035,Port Harcourt,Digital Products,Partners,Enterprise,12,216000,140400
+2024-02-01,ORD1036,Kano,Core Services,Corporate,SME,19,959500,460560
+2024-03-15,ORD1037,Port Harcourt,Enterprise Solutions,Direct Sales,Retail,8,324000,162000
+2024-03-18,ORD1038,Kano,Consulting,Online,Enterprise,15,1095000,558450
+2024-03-21,ORD1039,Ibadan,Premium Services,Partners,SME,22,946000,491920
+2024-03-24,ORD1040,Lagos,Digital Products,Corporate,Public Sector,29,2189500,1160435
+2024-03-27,ORD1041,Abuja,Core Services,Direct Sales,Retail,36,1638000,884520
+2024-03-30,ORD1042,Port Harcourt,Enterprise Solutions,Online,Enterprise,8,624000,343200
+2024-03-02,ORD1043,Kano,Consulting,Partners,SME,15,720000,403200
+2024-03-05,ORD1044,Ibadan,Premium Services,Corporate,Public Sector,22,396000,225720
+2024-03-08,ORD1045,Lagos,Digital Products,Direct Sales,Retail,29,1464500,849410
+2024-03-11,ORD1046,Abuja,Core Services,Online,Enterprise,36,738000,435420
+2024-03-14,ORD1047,Port Harcourt,Enterprise Solutions,Partners,SME,8,424000,254400
+2024-03-17,ORD1048,Kano,Consulting,Corporate,Public Sector,15,345000,210450
+2024-03-20,ORD1049,Ibadan,Premium Services,Direct Sales,Retail,22,1221000,757020
+2024-03-23,ORD1050,Lagos,Digital Products,Online,Enterprise,29,739500,465885
+2024-03-26,ORD1051,Abuja,Core Services,Partners,SME,36,2088000,1336320
+2024-03-29,ORD1052,Port Harcourt,Enterprise Solutions,Corporate,Public Sector,8,224000,145600
+2024-03-01,ORD1053,Kano,Consulting,Direct Sales,Retail,15,907500,435600
+2024-03-04,ORD1054,Ibadan,Premium Services,Online,Enterprise,22,671000,328790
+2024-04-22,ORD1055,Kano,Digital Products,Partners,Public Sector,11,225500,115005
+2024-04-25,ORD1056,Ibadan,Core Services,Corporate,Retail,18,954000,496080
+2024-04-28,ORD1057,Lagos,Enterprise Solutions,Direct Sales,Enterprise,25,575000,304750
+2024-04-01,ORD1058,Abuja,Consulting,Online,SME,32,1776000,959040
+2024-04-04,ORD1059,Port Harcourt,Premium Services,Partners,Public Sector,4,102000,56100
+2024-04-07,ORD1060,Kano,Digital Products,Corporate,Retail,11,638000,357280
+2024-04-10,ORD1061,Ibadan,Core Services,Direct Sales,Enterprise,18,504000,287280
+2024-04-13,ORD1062,Lagos,Enterprise Solutions,Online,SME,25,1512500,877250
+2024-04-16,ORD1063,Abuja,Consulting,Partners,Public Sector,32,976000,575840
+2024-04-19,ORD1064,Port Harcourt,Premium Services,Corporate,Retail,4,252000,151200
+2024-04-22,ORD1065,Kano,Digital Products,Direct Sales,Enterprise,11,363000,221430
+2024-04-25,ORD1066,Ibadan,Core Services,Online,SME,18,1179000,730980
+2024-04-28,ORD1067,Lagos,Enterprise Solutions,Partners,Public Sector,25,887500,559125
+2024-04-01,ORD1068,Abuja,Consulting,Corporate,Retail,32,2176000,1392640
+2024-04-04,ORD1069,Port Harcourt,Premium Services,Direct Sales,Enterprise,4,152000,98800
+2024-04-07,ORD1070,Kano,Digital Products,Online,SME,11,775500,372240
+2024-04-10,ORD1071,Ibadan,Core Services,Partners,Public Sector,18,729000,357210
+2024-04-13,ORD1072,Lagos,Enterprise Solutions,Corporate,Retail,25,1825000,912500
+2024-05-29,ORD1073,Ibadan,Consulting,Direct Sales,SME,14,882000,458640
+2024-05-01,ORD1074,Lagos,Premium Services,Online,Public Sector,21,693000,367290
+2024-05-04,ORD1075,Abuja,Digital Products,Partners,Retail,28,1834000,990360
+2024-05-07,ORD1076,Port Harcourt,Core Services,Corporate,Enterprise,35,1242500,683375
+2024-05-10,ORD1077,Kano,Enterprise Solutions,Direct Sales,SME,7,476000,266560
+2024-05-13,ORD1078,Ibadan,Consulting,Online,Public Sector,14,532000,303240
+2024-05-16,ORD1079,Lagos,Premium Services,Partners,Retail,21,1480500,858690
+2024-05-19,ORD1080,Abuja,Digital Products,Corporate,Enterprise,28,1134000,669060
+2024-05-22,ORD1081,Port Harcourt,Core Services,Direct Sales,SME,35,2555000,1533000
+2024-05-25,ORD1082,Kano,Enterprise Solutions,Online,Public Sector,7,301000,183610
+2024-05-28,ORD1083,Ibadan,Consulting,Partners,Retail,14,1057000,655340
+2024-05-31,ORD1084,Lagos,Premium Services,Corporate,Enterprise,21,955500,601965
+2024-05-03,ORD1085,Abuja,Digital Products,Direct Sales,SME,28,2184000,1397760
+2024-05-06,ORD1086,Port Harcourt,Core Services,Online,Public Sector,35,1680000,1092000
+2024-05-09,ORD1087,Kano,Enterprise Solutions,Partners,Retail,7,126000,60480
+2024-05-12,ORD1088,Ibadan,Consulting,Corporate,Enterprise,14,707000,346430
+2024-05-15,ORD1089,Lagos,Premium Services,Direct Sales,SME,21,430500,215250
+2024-05-18,ORD1090,Abuja,Digital Products,Online,Public Sector,28,1484000,756840
+2024-06-06,ORD1091,Lagos,Core Services,Partners,Enterprise,17,731000,387430
+2024-06-09,ORD1092,Abuja,Enterprise Solutions,Corporate,SME,24,1812000,978480
+2024-06-12,ORD1093,Port Harcourt,Consulting,Direct Sales,Public Sector,31,1410500,775775
+2024-06-15,ORD1094,Kano,Premium Services,Online,Retail,3,234000,131040
+2024-06-18,ORD1095,Ibadan,Digital Products,Partners,Enterprise,10,480000,273600
+2024-06-21,ORD1096,Lagos,Core Services,Corporate,SME,17,306000,177480
+2024-06-24,ORD1097,Abuja,Enterprise Solutions,Direct Sales,Public Sector,24,1212000,715080
+2024-06-27,ORD1098,Port Harcourt,Consulting,Online,Retail,31,635500,381300
+2024-06-30,ORD1099,Kano,Premium Services,Partners,Enterprise,3,159000,96990
+2024-06-03,ORD1100,Ibadan,Digital Products,Corporate,SME,10,230000,142600
+2024-06-06,ORD1101,Lagos,Core Services,Direct Sales,Public Sector,17,943500,594405
+2024-06-09,ORD1102,Abuja,Enterprise Solutions,Online,Retail,24,612000,391680
+2024-06-12,ORD1103,Port Harcourt,Consulting,Partners,Enterprise,31,1798000,1168700
+2024-06-15,ORD1104,Kano,Premium Services,Corporate,SME,3,84000,40320
+2024-06-18,ORD1105,Ibadan,Digital Products,Direct Sales,Public Sector,10,605000,296450
+2024-06-21,ORD1106,Lagos,Core Services,Online,Retail,17,518500,259250
+2024-06-24,ORD1107,Abuja,Enterprise Solutions,Partners,Enterprise,24,1512000,771120
+2024-06-27,ORD1108,Port Harcourt,Consulting,Corporate,SME,31,1023000,531960
+2024-07-12,ORD1109,Abuja,Premium Services,Direct Sales,Retail,20,460000,248400
+2024-07-15,ORD1110,Port Harcourt,Digital Products,Online,Enterprise,27,1498500,824175
+2024-07-18,ORD1111,Kano,Core Services,Partners,SME,34,867000,485520
+2024-07-21,ORD1112,Ibadan,Enterprise Solutions,Corporate,Public Sector,6,348000,198360
+2024-07-24,ORD1113,Lagos,Consulting,Direct Sales,Retail,13,364000,211120
+2024-07-27,ORD1114,Abuja,Premium Services,Online,Enterprise,20,1210000,713900
+2024-07-30,ORD1115,Port Harcourt,Digital Products,Partners,SME,27,823500,494100
+2024-07-02,ORD1116,Kano,Core Services,Corporate,Public Sector,34,2142000,1306620
+2024-07-05,ORD1117,Ibadan,Enterprise Solutions,Direct Sales,Retail,6,198000,122760
+2024-07-08,ORD1118,Lagos,Consulting,Online,Enterprise,13,851500,536445
+2024-07-11,ORD1119,Abuja,Premium Services,Partners,SME,20,710000,454400
+2024-07-14,ORD1120,Port Harcourt,Digital Products,Corporate,Public Sector,27,1836000,1193400
+2024-07-17,ORD1121,Kano,Core Services,Direct Sales,Retail,34,1292000,620160
+2024-07-20,ORD1122,Ibadan,Enterprise Solutions,Online,Enterprise,6,423000,207270
+2024-07-23,ORD1123,Lagos,Consulting,Partners,SME,13,526500,263250
+2024-07-26,ORD1124,Abuja,Premium Services,Corporate,Public Sector,20,1460000,744600
+2024-07-29,ORD1125,Port Harcourt,Digital Products,Direct Sales,Retail,27,1161000,603720
+2024-07-01,ORD1126,Kano,Core Services,Online,Enterprise,34,2567000,1360510
+2024-08-19,ORD1127,Port Harcourt,Enterprise Solutions,Partners,Public Sector,23,1506500,828575
+2024-08-22,ORD1128,Kano,Consulting,Corporate,Retail,30,1065000,596400
+2024-08-25,ORD1129,Ibadan,Premium Services,Direct Sales,Enterprise,2,136000,77520
+2024-08-28,ORD1130,Lagos,Digital Products,Online,SME,9,342000,198360
+2024-08-31,ORD1131,Abuja,Core Services,Partners,Public Sector,16,1128000,665520
+2024-08-03,ORD1132,Port Harcourt,Enterprise Solutions,Corporate,Retail,23,931500,558900
+2024-08-06,ORD1133,Kano,Consulting,Direct Sales,Enterprise,30,2190000,1335900
+2024-08-09,ORD1134,Ibadan,Premium Services,Online,SME,2,86000,53320
+2024-08-12,ORD1135,Lagos,Digital Products,Partners,Public Sector,9,679500,428085
+2024-08-15,ORD1136,Abuja,Core Services,Corporate,Retail,16,728000,465920
+2024-08-18,ORD1137,Port Harcourt,Enterprise Solutions,Direct Sales,Enterprise,23,1794000,1166100
+2024-08-21,ORD1138,Kano,Consulting,Online,SME,30,1440000,691200
+2024-08-24,ORD1139,Ibadan,Premium Services,Partners,Public Sector,2,36000,17640
+2024-08-27,ORD1140,Lagos,Digital Products,Corporate,Retail,9,454500,227250
+2024-08-30,ORD1141,Abuja,Core Services,Direct Sales,Enterprise,16,328000,167280
+2024-08-02,ORD1142,Port Harcourt,Enterprise Solutions,Online,SME,23,1219000,633880
+2024-08-05,ORD1143,Kano,Consulting,Partners,Public Sector,30,690000,365700
+2024-08-08,ORD1144,Ibadan,Premium Services,Corporate,Retail,2,111000,59940
+2024-09-27,ORD1145,Kano,Digital Products,Direct Sales,SME,26,1183000,662480
+2024-09-30,ORD1146,Ibadan,Core Services,Online,Public Sector,33,2574000,1467180
+2024-09-03,ORD1147,Lagos,Enterprise Solutions,Partners,Retail,5,240000,139200
+2024-09-06,ORD1148,Abuja,Consulting,Corporate,Enterprise,12,216000,127440
+2024-09-09,ORD1149,Port Harcourt,Premium Services,Direct Sales,SME,19,959500,575700
+2024-09-12,ORD1150,Kano,Digital Products,Online,Public Sector,26,533000,325130
+2024-09-15,ORD1151,Ibadan,Core Services,Partners,Retail,33,1749000,1084380
+2024-09-18,ORD1152,Lagos,Enterprise Solutions,Corporate,Enterprise,5,115000,72450
+2024-09-21,ORD1153,Abuja,Consulting,Direct Sales,SME,12,666000,426240
+2024-09-24,ORD1154,Port Harcourt,Premium Services,Online,Public Sector,19,484500,314925
+2024-09-27,ORD1155,Kano,Digital Products,Partners,Retail,26,1508000,723840
+2024-09-30,ORD1156,Ibadan,Core Services,Corporate,Enterprise,33,924000,452760
+2024-09-03,ORD1157,Lagos,Enterprise Solutions,Direct Sales,SME,5,302500,151250
+2024-09-06,ORD1158,Abuja,Consulting,Online,Public Sector,12,366000,186660
+2024-09-09,ORD1159,Port Harcourt,Premium Services,Partners,Retail,19,1197000,622440
+2024-09-12,ORD1160,Kano,Digital Products,Corporate,Enterprise,26,858000,454740
+2024-09-15,ORD1161,Ibadan,Core Services,Direct Sales,SME,33,2161500,1167210
+2024-09-18,ORD1162,Lagos,Enterprise Solutions,Online,Public Sector,5,177500,97625
+2024-10-02,ORD1163,Ibadan,Consulting,Partners,Enterprise,29,739500,421515
+2024-10-05,ORD1164,Lagos,Premium Services,Corporate,SME,36,2088000,1211040
+2024-10-08,ORD1165,Abuja,Digital Products,Direct Sales,Public Sector,8,224000,132160
+2024-10-11,ORD1166,Port Harcourt,Core Services,Online,Retail,15,907500,544500
+2024-10-14,ORD1167,Kano,Enterprise Solutions,Partners,Enterprise,22,671000,409310
+2024-10-17,ORD1168,Ibadan,Consulting,Corporate,SME,29,1827000,1132740
+2024-10-20,ORD1169,Lagos,Premium Services,Direct Sales,Public Sector,36,1188000,748440
+2024-10-23,ORD1170,Abuja,Digital Products,Online,Retail,8,524000,335360
+2024-10-26,ORD1171,Port Harcourt,Core Services,Partners,Enterprise,15,532500,346125
+2024-10-29,ORD1172,Kano,Enterprise Solutions,Corporate,SME,22,1496000,718080
+2024-10-01,ORD1173,Ibadan,Consulting,Direct Sales,Public Sector,29,1102000,539980
+2024-10-04,ORD1174,Lagos,Premium Services,Online,Retail,36,2538000,1269000
+2024-10-07,ORD1175,Abuja,Digital Products,Partners,Enterprise,8,324000,165240
+2024-10-10,ORD1176,Port Harcourt,Core Services,Corporate,SME,15,1095000,569400
+2024-10-13,ORD1177,Kano,Enterprise Solutions,Direct Sales,Public Sector,22,946000,501380
+2024-10-16,ORD1178,Ibadan,Consulting,Online,Retail,29,2189500,1182330
+2024-10-19,ORD1179,Lagos,Premium Services,Partners,Enterprise,36,1638000,900900
+2024-10-22,ORD1180,Abuja,Digital Products,Corporate,SME,8,624000,349440
+2024-11-11,ORD1181,Lagos,Core Services,Direct Sales,Retail,32,2176000,1262080
+2024-11-14,ORD1182,Abuja,Enterprise Solutions,Online,Enterprise,4,152000,89680
+2024-11-17,ORD1183,Port Harcourt,Consulting,Partners,SME,11,775500,465300
+2024-11-20,ORD1184,Kano,Premium Services,Corporate,Public Sector,18,729000,444690
+2024-11-23,ORD1185,Ibadan,Digital Products,Direct Sales,Retail,25,1825000,1131500
+2024-11-26,ORD1186,Lagos,Core Services,Online,Enterprise,32,1376000,866880
+2024-11-29,ORD1187,Abuja,Enterprise Solutions,Partners,SME,4,302000,193280
+2024-11-02,ORD1188,Port Harcourt,Consulting,Corporate,Public Sector,11,500500,325325
+2024-11-05,ORD1189,Kano,Premium Services,Direct Sales,Retail,18,1404000,673920
+2024-11-08,ORD1190,Ibadan,Digital Products,Online,Enterprise,25,1200000,588000
+2024-11-11,ORD1191,Lagos,Core Services,Partners,SME,32,576000,288000
+2024-11-14,ORD1192,Abuja,Enterprise Solutions,Corporate,Public Sector,4,202000,103020
+2024-11-17,ORD1193,Port Harcourt,Consulting,Direct Sales,Retail,11,225500,117260
+2024-11-20,ORD1194,Kano,Premium Services,Online,Enterprise,18,954000,505620
+2024-11-23,ORD1195,Ibadan,Digital Products,Partners,SME,25,575000,310500
+2024-11-26,ORD1196,Lagos,Core Services,Corporate,Public Sector,32,1776000,976800
+2024-11-29,ORD1197,Abuja,Enterprise Solutions,Direct Sales,Retail,4,102000,57120
+2024-11-02,ORD1198,Port Harcourt,Consulting,Online,Enterprise,11,638000,363660
+2024-12-16,ORD1199,Abuja,Premium Services,Partners,Public Sector,35,1680000,991200
+2024-12-19,ORD1200,Port Harcourt,Digital Products,Corporate,Retail,7,126000,75600
+2024-12-22,ORD1201,Kano,Core Services,Direct Sales,Enterprise,14,707000,431270
+2024-12-25,ORD1202,Ibadan,Enterprise Solutions,Online,SME,21,430500,266910
+2024-12-28,ORD1203,Lagos,Consulting,Partners,Public Sector,28,1484000,934920
+2024-12-31,ORD1204,Abuja,Premium Services,Corporate,Retail,35,805000,515200
+2024-12-03,ORD1205,Port Harcourt,Digital Products,Direct Sales,Enterprise,7,388500,252525
+2024-12-06,ORD1206,Kano,Core Services,Online,SME,14,357000,171360
+2024-12-09,ORD1207,Ibadan,Enterprise Solutions,Partners,Public Sector,21,1218000,596820
+2024-12-12,ORD1208,Lagos,Consulting,Corporate,Retail,28,784000,392000
+2024-12-15,ORD1209,Abuja,Premium Services,Direct Sales,Enterprise,35,2117500,1079925
+2024-12-18,ORD1210,Port Harcourt,Digital Products,Online,SME,7,213500,111020
+2024-12-21,ORD1211,Kano,Core Services,Partners,Public Sector,14,882000,467460
+2024-12-24,ORD1212,Ibadan,Enterprise Solutions,Corporate,Retail,21,693000,374220
+2024-12-27,ORD1213,Lagos,Consulting,Direct Sales,Enterprise,28,1834000,1008700
+2024-12-30,ORD1214,Abuja,Premium Services,Online,SME,35,1242500,695800
+2024-12-02,ORD1215,Port Harcourt,Digital Products,Partners,Public Sector,7,476000,271320
+2024-12-05,ORD1216,Kano,Core Services,Corporate,Retail,14,532000,308560
+2025-01-23,ORD1217,Port Harcourt,Enterprise Solutions,Direct Sales,SME,3,84000,50400
+2025-01-26,ORD1218,Kano,Consulting,Online,Public Sector,10,605000,369050
+2025-01-29,ORD1219,Ibadan,Premium Services,Partners,Retail,17,518500,321470
+2025-01-01,ORD1220,Lagos,Digital Products,Corporate,Enterprise,24,1512000,952560
+2025-01-04,ORD1221,Abuja,Core Services,Direct Sales,SME,31,1023000,654720
+2025-01-07,ORD1222,Port Harcourt,Enterprise Solutions,Online,Public Sector,3,196500,127725
+2025-01-10,ORD1223,Kano,Consulting,Partners,Retail,10,355000,170400
+2025-01-13,ORD1224,Ibadan,Premium Services,Corporate,Enterprise,17,1156000,566440
+2025-01-16,ORD1225,Lagos,Digital Products,Direct Sales,SME,24,912000,456000
+2025-01-19,ORD1226,Abuja,Core Services,Online,Public Sector,31,2185500,1114605
+2025-01-22,ORD1227,Port Harcourt,Enterprise Solutions,Partners,Retail,3,121500,63180
+2025-01-25,ORD1228,Kano,Consulting,Corporate,Enterprise,10,730000,386900
+2025-01-28,ORD1229,Ibadan,Premium Services,Direct Sales,SME,17,731000,394740
+2025-01-31,ORD1230,Lagos,Digital Products,Online,Public Sector,24,1812000,996600
+2025-01-03,ORD1231,Abuja,Core Services,Partners,Retail,31,1410500,789880
+2025-01-06,ORD1232,Port Harcourt,Enterprise Solutions,Corporate,Enterprise,3,234000,133380
+2025-01-09,ORD1233,Kano,Consulting,Direct Sales,SME,10,480000,278400
+2025-01-12,ORD1234,Ibadan,Premium Services,Online,Public Sector,17,306000,180540
+2025-02-08,ORD1235,Kano,Digital Products,Partners,Enterprise,6,423000,258030
+2025-02-11,ORD1236,Ibadan,Core Services,Corporate,SME,13,526500,326430
+2025-02-14,ORD1237,Lagos,Enterprise Solutions,Direct Sales,Public Sector,20,1460000,919800
+2025-02-17,ORD1238,Abuja,Consulting,Online,Retail,27,1161000,743040
+2025-02-20,ORD1239,Port Harcourt,Premium Services,Partners,Enterprise,34,2567000,1668550
+2025-02-23,ORD1240,Kano,Digital Products,Corporate,SME,6,273000,131040
+2025-02-26,ORD1241,Ibadan,Core Services,Direct Sales,Public Sector,13,1014000,496860
+2025-02-01,ORD1242,Lagos,Enterprise Solutions,Online,Retail,20,960000,480000
+2025-02-04,ORD1243,Abuja,Consulting,Partners,Enterprise,27,486000,247860
+2025-02-07,ORD1244,Port Harcourt,Premium Services,Corporate,SME,34,1717000,892840
+2025-02-10,ORD1245,Kano,Digital Products,Direct Sales,Public Sector,6,123000,65190
+2025-02-13,ORD1246,Ibadan,Core Services,Online,Retail,13,689000,372060
+2025-02-16,ORD1247,Lagos,Enterprise Solutions,Partners,Enterprise,20,460000,253000
+2025-02-19,ORD1248,Abuja,Consulting,Corporate,SME,27,1498500,839160
+2025-02-22,ORD1249,Port Harcourt,Premium Services,Direct Sales,Public Sector,34,867000,494190
+2025-02-25,ORD1250,Kano,Digital Products,Online,Retail,6,348000,201840
+2025-02-28,ORD1251,Ibadan,Core Services,Partners,Enterprise,13,364000,214760
+2025-02-03,ORD1252,Lagos,Enterprise Solutions,Corporate,SME,20,1210000,726000
+2025-03-06,ORD1253,Ibadan,Consulting,Direct Sales,Retail,9,454500,281790
+2025-03-09,ORD1254,Lagos,Premium Services,Online,Enterprise,16,328000,206640
+2025-03-12,ORD1255,Abuja,Digital Products,Partners,SME,23,1219000,780160
+2025-03-15,ORD1256,Port Harcourt,Core Services,Corporate,Public Sector,30,690000,448500
+2025-03-18,ORD1257,Kano,Enterprise Solutions,Direct Sales,Retail,2,111000,53280
+2025-03-21,ORD1258,Ibadan,Consulting,Online,Enterprise,9,229500,112455
+2025-03-24,ORD1259,Lagos,Premium Services,Partners,SME,16,928000,464000
+2025-03-27,ORD1260,Abuja,Digital Products,Corporate,Public Sector,23,644000,328440
+2025-03-30,ORD1261,Port Harcourt,Core Services,Direct Sales,Retail,30,1815000,943800
+2025-03-02,ORD1262,Kano,Enterprise Solutions,Online,Enterprise,2,61000,32330
+2025-03-05,ORD1263,Ibadan,Consulting,Partners,SME,9,567000,306180
+2025-03-08,ORD1264,Lagos,Premium Services,Corporate,Public Sector,16,528000,290400
+2025-03-11,ORD1265,Abuja,Digital Products,Direct Sales,Retail,23,1506500,843640
+2025-03-14,ORD1266,Port Harcourt,Core Services,Online,Enterprise,30,1065000,607050
+2025-03-17,ORD1267,Kano,Enterprise Solutions,Partners,SME,2,136000,78880
+2025-03-20,ORD1268,Ibadan,Consulting,Corporate,Public Sector,9,342000,201780
+2025-03-23,ORD1269,Lagos,Premium Services,Direct Sales,Retail,16,1128000,676800
+2025-03-26,ORD1270,Abuja,Digital Products,Online,Enterprise,23,931500,568215
+2025-04-16,ORD1271,Lagos,Core Services,Partners,Public Sector,12,366000,230580
+2025-04-19,ORD1272,Abuja,Enterprise Solutions,Corporate,Retail,19,1197000,766080
+2025-04-22,ORD1273,Port Harcourt,Consulting,Direct Sales,Enterprise,26,858000,557700
+2025-04-25,ORD1274,Kano,Premium Services,Online,SME,33,2161500,1037520
+2025-04-28,ORD1275,Ibadan,Digital Products,Partners,Public Sector,5,177500,86975
+2025-04-01,ORD1276,Lagos,Core Services,Corporate,Retail,12,816000,408000
+2025-04-04,ORD1277,Abuja,Enterprise Solutions,Direct Sales,Enterprise,19,722000,368220
+2025-04-07,ORD1278,Port Harcourt,Consulting,Online,SME,26,1833000,953160
+2025-04-10,ORD1279,Kano,Premium Services,Partners,Public Sector,33,1336500,708345
+2025-04-13,ORD1280,Ibadan,Digital Products,Corporate,Retail,5,365000,197100
+2025-04-16,ORD1281,Lagos,Core Services,Direct Sales,Enterprise,12,516000,283800
+2025-04-19,ORD1282,Abuja,Enterprise Solutions,Online,SME,19,1434500,803320
+2025-04-22,ORD1283,Port Harcourt,Consulting,Partners,Public Sector,26,1183000,674310
+2025-04-25,ORD1284,Kano,Premium Services,Corporate,Retail,33,2574000,1492920
+2025-04-28,ORD1285,Ibadan,Digital Products,Direct Sales,Enterprise,5,240000,141600
+2025-04-01,ORD1286,Lagos,Core Services,Online,SME,12,216000,129600
+2025-04-04,ORD1287,Abuja,Enterprise Solutions,Partners,Public Sector,19,959500,585295
+2025-04-07,ORD1288,Port Harcourt,Consulting,Corporate,Retail,26,533000,330460
+2025-05-20,ORD1289,Abuja,Premium Services,Direct Sales,SME,15,1095000,700800
+2025-05-23,ORD1290,Port Harcourt,Digital Products,Online,Public Sector,22,946000,614900
+2025-05-26,ORD1291,Kano,Core Services,Partners,Retail,29,2189500,1050960
+2025-05-29,ORD1292,Ibadan,Enterprise Solutions,Corporate,Enterprise,36,1638000,802620
+2025-05-01,ORD1293,Lagos,Consulting,Direct Sales,SME,8,624000,312000
+2025-05-04,ORD1294,Abuja,Premium Services,Online,Public Sector,15,720000,367200
+2025-05-07,ORD1295,Port Harcourt,Digital Products,Partners,Retail,22,396000,205920
+2025-05-10,ORD1296,Kano,Core Services,Corporate,Enterprise,29,1464500,776185
+2025-05-13,ORD1297,Ibadan,Enterprise Solutions,Direct Sales,SME,36,738000,398520
+2025-05-16,ORD1298,Lagos,Consulting,Online,Public Sector,8,424000,233200
+2025-05-19,ORD1299,Abuja,Premium Services,Partners,Retail,15,345000,193200
+2025-05-22,ORD1300,Port Harcourt,Digital Products,Corporate,Enterprise,22,1221000,695970
+2025-05-25,ORD1301,Kano,Core Services,Direct Sales,SME,29,739500,428910
+2025-05-28,ORD1302,Ibadan,Enterprise Solutions,Online,Public Sector,36,2088000,1231920
+2025-05-31,ORD1303,Lagos,Consulting,Partners,Retail,8,224000,134400
+2025-05-03,ORD1304,Abuja,Premium Services,Corporate,Enterprise,15,907500,553575
+2025-05-06,ORD1305,Port Harcourt,Digital Products,Direct Sales,SME,22,671000,416020
+2025-05-09,ORD1306,Kano,Core Services,Online,Public Sector,29,1827000,1151010
+2025-06-30,ORD1307,Port Harcourt,Enterprise Solutions,Partners,Enterprise,18,954000,620100
+2025-06-03,ORD1308,Kano,Consulting,Corporate,SME,25,575000,276000
+2025-06-06,ORD1309,Ibadan,Premium Services,Direct Sales,Public Sector,32,1776000,870240
+2025-06-09,ORD1310,Lagos,Digital Products,Online,Retail,4,102000,51000
+2025-06-12,ORD1311,Abuja,Core Services,Partners,Enterprise,11,638000,325380
+2025-06-15,ORD1312,Port Harcourt,Enterprise Solutions,Corporate,SME,18,504000,262080
+2025-06-18,ORD1313,Kano,Consulting,Direct Sales,Public Sector,25,1512500,801625
+2025-06-21,ORD1314,Ibadan,Premium Services,Online,Retail,32,976000,527040
+2025-06-24,ORD1315,Lagos,Digital Products,Partners,Enterprise,4,252000,138600
+2025-06-27,ORD1316,Abuja,Core Services,Corporate,SME,11,363000,203280
+2025-06-30,ORD1317,Port Harcourt,Enterprise Solutions,Direct Sales,Public Sector,18,1179000,672030
+2025-06-03,ORD1318,Kano,Consulting,Online,Retail,25,887500,514750
+2025-06-06,ORD1319,Ibadan,Premium Services,Partners,Enterprise,32,2176000,1283840
+2025-06-09,ORD1320,Lagos,Digital Products,Corporate,SME,4,152000,91200
+2025-06-12,ORD1321,Abuja,Core Services,Direct Sales,Public Sector,11,775500,473055
+2025-06-15,ORD1322,Port Harcourt,Enterprise Solutions,Online,Retail,18,729000,451980
+2025-06-18,ORD1323,Kano,Consulting,Partners,Enterprise,25,1825000,1149750
+2025-06-21,ORD1324,Ibadan,Premium Services,Corporate,SME,32,1376000,880640
+2025-07-03,ORD1325,Kano,Digital Products,Direct Sales,Retail,21,693000,332640
+2025-07-06,ORD1326,Ibadan,Core Services,Online,Enterprise,28,1834000,898660
+2025-07-09,ORD1327,Lagos,Enterprise Solutions,Partners,SME,35,1242500,621250
+2025-07-12,ORD1328,Abuja,Consulting,Corporate,Public Sector,7,476000,242760
+2025-07-15,ORD1329,Port Harcourt,Premium Services,Direct Sales,Retail,14,532000,276640
+2025-07-18,ORD1330,Kano,Digital Products,Online,Enterprise,21,1480500,784665
+2025-07-21,ORD1331,Ibadan,Core Services,Partners,SME,28,1134000,612360
+2025-07-24,ORD1332,Lagos,Enterprise Solutions,Corporate,Public Sector,35,2555000,1405250
+2025-07-27,ORD1333,Abuja,Consulting,Direct Sales,Retail,7,301000,168560
+2025-07-30,ORD1334,Port Harcourt,Premium Services,Online,Enterprise,14,1057000,602490
+2025-07-02,ORD1335,Kano,Digital Products,Partners,SME,21,955500,554190
+2025-07-05,ORD1336,Ibadan,Core Services,Corporate,Public Sector,28,2184000,1288560
+2025-07-08,ORD1337,Lagos,Enterprise Solutions,Direct Sales,Retail,35,1680000,1008000
+2025-07-11,ORD1338,Abuja,Consulting,Online,Enterprise,7,126000,76860
+2025-07-14,ORD1339,Port Harcourt,Premium Services,Partners,SME,14,707000,438340
+2025-07-17,ORD1340,Kano,Digital Products,Corporate,Public Sector,21,430500,271215
+2025-07-20,ORD1341,Ibadan,Core Services,Direct Sales,Retail,28,1484000,949760
+2025-07-23,ORD1342,Lagos,Enterprise Solutions,Online,Enterprise,35,805000,523250
+2025-08-10,ORD1343,Ibadan,Consulting,Partners,Public Sector,24,1812000,887880
+2025-08-13,ORD1344,Lagos,Premium Services,Corporate,Retail,31,1410500,705250
+2025-08-16,ORD1345,Abuja,Digital Products,Direct Sales,Enterprise,3,234000,119340
+2025-08-19,ORD1346,Port Harcourt,Core Services,Online,SME,10,480000,249600
+2025-08-22,ORD1347,Kano,Enterprise Solutions,Partners,Public Sector,17,306000,162180
+2025-08-25,ORD1348,Ibadan,Consulting,Corporate,Retail,24,1212000,654480
+2025-08-28,ORD1349,Lagos,Premium Services,Direct Sales,Enterprise,31,635500,349525
+2025-08-31,ORD1350,Abuja,Digital Products,Online,SME,3,159000,89040
+2025-08-03,ORD1351,Port Harcourt,Core Services,Partners,Public Sector,10,230000,131100
+2025-08-06,ORD1352,Kano,Enterprise Solutions,Corporate,Retail,17,943500,547230
+2025-08-09,ORD1353,Ibadan,Consulting,Direct Sales,Enterprise,24,612000,361080
+2025-08-12,ORD1354,Lagos,Premium Services,Online,SME,31,1798000,1078800
+2025-08-15,ORD1355,Abuja,Digital Products,Partners,Public Sector,3,84000,51240
+2025-08-18,ORD1356,Port Harcourt,Core Services,Corporate,Retail,10,605000,375100
+2025-08-21,ORD1357,Kano,Enterprise Solutions,Direct Sales,Enterprise,17,518500,326655
+2025-08-24,ORD1358,Ibadan,Consulting,Online,SME,24,1512000,967680
+2025-08-27,ORD1359,Lagos,Premium Services,Partners,Public Sector,31,1023000,664950
+2025-08-30,ORD1360,Abuja,Digital Products,Corporate,Retail,3,196500,94320
+2025-09-21,ORD1361,Lagos,Core Services,Direct Sales,SME,27,1498500,749250
+2025-09-24,ORD1362,Abuja,Enterprise Solutions,Online,Public Sector,34,867000,442170
+2025-09-27,ORD1363,Port Harcourt,Consulting,Partners,Retail,6,348000,180960
+2025-09-30,ORD1364,Kano,Premium Services,Corporate,Enterprise,13,364000,192920
+2025-09-03,ORD1365,Ibadan,Digital Products,Direct Sales,SME,20,1210000,653400
+2025-09-06,ORD1366,Lagos,Core Services,Online,Public Sector,27,823500,452925
+2025-09-09,ORD1367,Abuja,Enterprise Solutions,Partners,Retail,34,2142000,1199520
+2025-09-12,ORD1368,Port Harcourt,Consulting,Corporate,Enterprise,6,198000,112860
+2025-09-15,ORD1369,Kano,Premium Services,Direct Sales,SME,13,851500,493870
+2025-09-18,ORD1370,Ibadan,Digital Products,Online,Public Sector,20,710000,418900
+2025-09-21,ORD1371,Lagos,Core Services,Partners,Retail,27,1836000,1101600
+2025-09-24,ORD1372,Abuja,Enterprise Solutions,Corporate,Enterprise,34,1292000,788120
+2025-09-27,ORD1373,Port Harcourt,Consulting,Direct Sales,SME,6,423000,262260
+2025-09-30,ORD1374,Kano,Premium Services,Online,Public Sector,13,526500,331695
+2025-09-03,ORD1375,Ibadan,Digital Products,Partners,Retail,20,1460000,934400
+2025-09-06,ORD1376,Lagos,Core Services,Corporate,Enterprise,27,1161000,754650
+2025-09-09,ORD1377,Abuja,Enterprise Solutions,Direct Sales,SME,34,2567000,1232160
+2025-09-12,ORD1378,Port Harcourt,Consulting,Online,Public Sector,6,273000,133770
+2025-10-24,ORD1379,Abuja,Premium Services,Partners,Enterprise,30,1065000,543150
+2025-10-27,ORD1380,Port Harcourt,Digital Products,Corporate,SME,2,136000,70720
+2025-10-30,ORD1381,Kano,Core Services,Direct Sales,Public Sector,9,342000,181260
+2025-10-02,ORD1382,Ibadan,Enterprise Solutions,Online,Retail,16,1128000,609120
+2025-10-05,ORD1383,Lagos,Consulting,Partners,Enterprise,23,931500,512325
+2025-10-08,ORD1384,Abuja,Premium Services,Corporate,SME,30,2190000,1226400
+2025-10-11,ORD1385,Port Harcourt,Digital Products,Direct Sales,Public Sector,2,86000,49020
+2025-10-14,ORD1386,Kano,Core Services,Online,Retail,9,679500,394110
+2025-10-17,ORD1387,Ibadan,Enterprise Solutions,Partners,Enterprise,16,728000,429520
+2025-10-20,ORD1388,Lagos,Consulting,Corporate,SME,23,1794000,1076400
+2025-10-23,ORD1389,Abuja,Premium Services,Direct Sales,Public Sector,30,1440000,878400
+2025-10-26,ORD1390,Port Harcourt,Digital Products,Online,Retail,2,36000,22320
+2025-10-29,ORD1391,Kano,Core Services,Partners,Enterprise,9,454500,286335
+2025-10-01,ORD1392,Ibadan,Enterprise Solutions,Corporate,SME,16,328000,209920
+2025-10-04,ORD1393,Lagos,Consulting,Direct Sales,Public Sector,23,1219000,792350
+2025-10-07,ORD1394,Abuja,Premium Services,Online,Retail,30,690000,331200
+2025-10-10,ORD1395,Port Harcourt,Digital Products,Partners,Enterprise,2,111000,54390
+2025-10-13,ORD1396,Kano,Core Services,Corporate,SME,9,229500,114750
+2025-11-05,ORD1397,Port Harcourt,Enterprise Solutions,Direct Sales,Retail,33,2574000,1338480
+2025-11-08,ORD1398,Kano,Consulting,Online,Enterprise,5,240000,127200
+2025-11-11,ORD1399,Ibadan,Premium Services,Partners,SME,12,216000,116640
+2025-11-14,ORD1400,Lagos,Digital Products,Corporate,Public Sector,19,959500,527725
+2025-11-17,ORD1401,Abuja,Core Services,Direct Sales,Retail,26,533000,298480
+2025-11-20,ORD1402,Port Harcourt,Enterprise Solutions,Online,Enterprise,33,1749000,996930
+2025-11-23,ORD1403,Kano,Consulting,Partners,SME,5,115000,66700
+2025-11-26,ORD1404,Ibadan,Premium Services,Corporate,Public Sector,12,666000,392940
+2025-11-29,ORD1405,Lagos,Digital Products,Direct Sales,Retail,19,484500,290700
+2025-11-02,ORD1406,Abuja,Core Services,Online,Enterprise,26,1508000,919880
+2025-11-05,ORD1407,Port Harcourt,Enterprise Solutions,Partners,SME,33,924000,572880
+2025-11-08,ORD1408,Kano,Consulting,Corporate,Public Sector,5,302500,190575
+2025-11-11,ORD1409,Ibadan,Premium Services,Direct Sales,Retail,12,366000,234240
+2025-11-14,ORD1410,Lagos,Digital Products,Online,Enterprise,19,1197000,778050
+2025-11-17,ORD1411,Abuja,Core Services,Partners,SME,26,858000,411840
+2025-11-20,ORD1412,Port Harcourt,Enterprise Solutions,Corporate,Public Sector,33,2161500,1059135
+2025-11-23,ORD1413,Kano,Consulting,Direct Sales,Retail,5,177500,88750
+2025-11-26,ORD1414,Ibadan,Premium Services,Online,Enterprise,12,816000,416160
+2025-12-07,ORD1415,Kano,Digital Products,Partners,Public Sector,36,2088000,1106640
+2025-12-10,ORD1416,Ibadan,Core Services,Corporate,Retail,8,224000,120960
+2025-12-13,ORD1417,Lagos,Enterprise Solutions,Direct Sales,Enterprise,15,907500,499125
+2025-12-16,ORD1418,Abuja,Consulting,Online,SME,22,671000,375760
+2025-12-19,ORD1419,Port Harcourt,Premium Services,Partners,Public Sector,29,1827000,1041390
+2025-12-22,ORD1420,Kano,Digital Products,Corporate,Retail,36,1188000,689040
+2025-12-25,ORD1421,Ibadan,Core Services,Direct Sales,Enterprise,8,524000,309160
+2025-12-28,ORD1422,Lagos,Enterprise Solutions,Online,SME,15,532500,319500
+2025-12-31,ORD1423,Abuja,Consulting,Partners,Public Sector,22,1496000,912560
+2025-12-03,ORD1424,Port Harcourt,Premium Services,Corporate,Retail,29,1102000,683240
+2025-12-06,ORD1425,Kano,Digital Products,Direct Sales,Enterprise,36,2538000,1598940
+2025-12-09,ORD1426,Ibadan,Core Services,Online,SME,8,324000,207360
+2025-12-12,ORD1427,Lagos,Enterprise Solutions,Partners,Public Sector,15,1095000,711750
+2025-12-15,ORD1428,Abuja,Consulting,Corporate,Retail,22,946000,454080
+2025-12-18,ORD1429,Port Harcourt,Premium Services,Direct Sales,Enterprise,29,2189500,1072855
+2025-12-21,ORD1430,Kano,Digital Products,Online,SME,36,1638000,819000
+2025-12-24,ORD1431,Ibadan,Core Services,Partners,Public Sector,8,624000,318240
+2025-12-27,ORD1432,Lagos,Enterprise Solutions,Corporate,Retail,15,720000,374400
+2026-01-14,ORD1433,Ibadan,Consulting,Direct Sales,SME,4,152000,82080
+2026-01-17,ORD1434,Lagos,Premium Services,Online,Public Sector,11,775500,426525
+2026-01-20,ORD1435,Abuja,Digital Products,Partners,Retail,18,729000,408240
+2026-01-23,ORD1436,Port Harcourt,Core Services,Corporate,Enterprise,25,1825000,1040250
+2026-01-26,ORD1437,Kano,Enterprise Solutions,Direct Sales,SME,32,1376000,798080
+2026-01-29,ORD1438,Ibadan,Consulting,Online,Public Sector,4,302000,178180
+2026-01-01,ORD1439,Lagos,Premium Services,Partners,Retail,11,500500,300300
+2026-01-04,ORD1440,Abuja,Digital Products,Corporate,Enterprise,18,1404000,856440
+2026-01-07,ORD1441,Port Harcourt,Core Services,Direct Sales,SME,25,1200000,744000
+2026-01-10,ORD1442,Kano,Enterprise Solutions,Online,Public Sector,32,576000,362880
+2026-01-13,ORD1443,Ibadan,Consulting,Partners,Retail,4,202000,129280
+2026-01-16,ORD1444,Lagos,Premium Services,Corporate,Enterprise,11,225500,146575
+2026-01-19,ORD1445,Abuja,Digital Products,Direct Sales,SME,18,954000,457920
+2026-01-22,ORD1446,Port Harcourt,Core Services,Online,Public Sector,25,575000,281750
+2026-01-25,ORD1447,Kano,Enterprise Solutions,Partners,Retail,32,1776000,888000
+2026-01-28,ORD1448,Ibadan,Consulting,Corporate,Enterprise,4,102000,52020
+2026-01-31,ORD1449,Lagos,Premium Services,Direct Sales,SME,11,638000,331760
+2026-01-03,ORD1450,Abuja,Digital Products,Online,Public Sector,18,504000,267120
+2026-02-08,ORD1451,Lagos,Core Services,Partners,Enterprise,7,126000,69300
+2026-02-11,ORD1452,Abuja,Enterprise Solutions,Corporate,SME,14,707000,395920
+2026-02-14,ORD1453,Port Harcourt,Consulting,Direct Sales,Public Sector,21,430500,245385
+2026-02-17,ORD1454,Kano,Premium Services,Online,Retail,28,1484000,860720
+2026-02-20,ORD1455,Ibadan,Digital Products,Partners,Enterprise,35,805000,474950
+2026-02-23,ORD1456,Lagos,Core Services,Corporate,SME,7,388500,233100
+2026-02-26,ORD1457,Abuja,Enterprise Solutions,Direct Sales,Public Sector,14,357000,217770
+2026-02-01,ORD1458,Port Harcourt,Consulting,Online,Retail,21,1218000,755160
+2026-02-04,ORD1459,Kano,Premium Services,Partners,Enterprise,28,784000,493920
+2026-02-07,ORD1460,Ibadan,Digital Products,Corporate,SME,35,2117500,1355200
+2026-02-10,ORD1461,Lagos,Core Services,Direct Sales,Public Sector,7,213500,138775
+2026-02-13,ORD1462,Abuja,Enterprise Solutions,Online,Retail,14,882000,423360
+2026-02-16,ORD1463,Port Harcourt,Consulting,Partners,Enterprise,21,693000,339570
+2026-02-19,ORD1464,Kano,Premium Services,Corporate,SME,28,1834000,917000
+2026-02-22,ORD1465,Ibadan,Digital Products,Direct Sales,Public Sector,35,1242500,633675
+2026-02-25,ORD1466,Lagos,Core Services,Online,Retail,7,476000,247520
+2026-02-28,ORD1467,Abuja,Enterprise Solutions,Partners,Enterprise,14,532000,281960
+2026-02-03,ORD1468,Port Harcourt,Consulting,Corporate,SME,21,1480500,799470
+2026-03-28,ORD1469,Abuja,Premium Services,Direct Sales,Retail,10,605000,338800
+2026-03-31,ORD1470,Port Harcourt,Digital Products,Online,Enterprise,17,518500,295545
+2026-03-03,ORD1471,Kano,Core Services,Partners,SME,24,1512000,876960
+2026-03-06,ORD1472,Ibadan,Enterprise Solutions,Corporate,Public Sector,31,1023000,603570
+2026-03-09,ORD1473,Lagos,Consulting,Direct Sales,Retail,3,196500,117900
+2026-03-12,ORD1474,Abuja,Premium Services,Online,Enterprise,10,355000,216550
+2026-03-15,ORD1475,Port Harcourt,Digital Products,Partners,SME,17,1156000,716720
+2026-03-18,ORD1476,Kano,Core Services,Corporate,Public Sector,24,912000,574560
+2026-03-21,ORD1477,Ibadan,Enterprise Solutions,Direct Sales,Retail,31,2185500,1398720
+2026-03-24,ORD1478,Lagos,Consulting,Online,Enterprise,3,121500,78975
+2026-03-27,ORD1479,Abuja,Premium Services,Partners,SME,10,730000,350400
+2026-03-30,ORD1480,Port Harcourt,Digital Products,Corporate,Public Sector,17,731000,358190
+2026-03-02,ORD1481,Kano,Core Services,Direct Sales,Retail,24,1812000,906000
+2026-03-05,ORD1482,Ibadan,Enterprise Solutions,Online,Enterprise,31,1410500,719355
+2026-03-08,ORD1483,Lagos,Consulting,Partners,SME,3,234000,121680
+2026-03-11,ORD1484,Abuja,Premium Services,Corporate,Public Sector,10,480000,254400
+2026-03-14,ORD1485,Port Harcourt,Digital Products,Direct Sales,Retail,17,306000,165240
+2026-03-17,ORD1486,Kano,Core Services,Online,Enterprise,24,1212000,666600
+2026-04-10,ORD1487,Port Harcourt,Enterprise Solutions,Partners,Public Sector,13,526500,300105
+2026-04-13,ORD1488,Kano,Consulting,Corporate,Retail,20,1460000,846800
+2026-04-16,ORD1489,Ibadan,Premium Services,Direct Sales,Enterprise,27,1161000,684990
+2026-04-19,ORD1490,Lagos,Digital Products,Online,SME,34,2567000,1540200
+2026-04-22,ORD1491,Abuja,Core Services,Partners,Public Sector,6,273000,166530
+2026-04-25,ORD1492,Port Harcourt,Enterprise Solutions,Corporate,Retail,13,1014000,628680
+2026-04-28,ORD1493,Kano,Consulting,Direct Sales,Enterprise,20,960000,604800
+2026-04-01,ORD1494,Ibadan,Premium Services,Online,SME,27,486000,311040
+2026-04-04,ORD1495,Lagos,Digital Products,Partners,Public Sector,34,1717000,1116050
+2026-04-07,ORD1496,Abuja,Core Services,Corporate,Retail,6,123000,59040
+2026-04-10,ORD1497,Port Harcourt,Enterprise Solutions,Direct Sales,Enterprise,13,689000,337610
+2026-04-13,ORD1498,Kano,Consulting,Online,SME,20,460000,230000
+2026-04-16,ORD1499,Ibadan,Premium Services,Partners,Public Sector,27,1498500,764235
+2026-04-19,ORD1500,Lagos,Digital Products,Corporate,Retail,34,867000,450840
+2026-04-22,ORD1501,Abuja,Core Services,Direct Sales,Enterprise,6,348000,184440
+2026-04-25,ORD1502,Port Harcourt,Enterprise Solutions,Online,SME,13,364000,196560
+2026-04-28,ORD1503,Kano,Consulting,Partners,Public Sector,20,1210000,665500
+2026-04-01,ORD1504,Ibadan,Premium Services,Corporate,Retail,27,823500,461160
+2026-05-11,ORD1505,Kano,Digital Products,Direct Sales,SME,16,328000,190240
+2026-05-14,ORD1506,Ibadan,Core Services,Online,Public Sector,23,1219000,719210
+2026-05-17,ORD1507,Lagos,Enterprise Solutions,Partners,Retail,30,690000,414000
+2026-05-20,ORD1508,Abuja,Consulting,Corporate,Enterprise,2,111000,67710
+2026-05-23,ORD1509,Port Harcourt,Premium Services,Direct Sales,SME,9,229500,142290
+2026-05-26,ORD1510,Kano,Digital Products,Online,Public Sector,16,928000,584640
+2026-05-29,ORD1511,Ibadan,Core Services,Partners,Retail,23,644000,412160
+2026-05-01,ORD1512,Lagos,Enterprise Solutions,Corporate,Enterprise,30,1815000,1179750
+2026-05-04,ORD1513,Abuja,Consulting,Direct Sales,SME,2,61000,29280
+2026-05-07,ORD1514,Port Harcourt,Premium Services,Online,Public Sector,9,567000,277830
+2026-05-10,ORD1515,Kano,Digital Products,Partners,Retail,16,528000,264000
+2026-05-13,ORD1516,Ibadan,Core Services,Corporate,Enterprise,23,1506500,768315
+2026-05-16,ORD1517,Lagos,Enterprise Solutions,Direct Sales,SME,30,1065000,553800
+2026-05-19,ORD1518,Abuja,Consulting,Online,Public Sector,2,136000,72080
+2026-05-22,ORD1519,Port Harcourt,Premium Services,Partners,Retail,9,342000,184680
+2026-05-25,ORD1520,Kano,Digital Products,Corporate,Enterprise,16,1128000,620400
+2026-05-28,ORD1521,Ibadan,Core Services,Direct Sales,SME,23,931500,521640
+2026-05-31,ORD1522,Lagos,Enterprise Solutions,Online,Public Sector,30,2190000,1248300
+2026-06-24,ORD1523,Ibadan,Consulting,Partners,Enterprise,19,1197000,706230
+2026-06-27,ORD1524,Lagos,Premium Services,Corporate,SME,26,858000,514800
+2026-06-30,ORD1525,Abuja,Digital Products,Direct Sales,Public Sector,33,2161500,1318515
+2026-06-03,ORD1526,Port Harcourt,Core Services,Online,Retail,5,177500,110050
+2026-06-06,ORD1527,Kano,Enterprise Solutions,Partners,Enterprise,12,816000,514080
+2026-06-09,ORD1528,Ibadan,Consulting,Corporate,SME,19,722000,462080
+2026-06-12,ORD1529,Lagos,Premium Services,Direct Sales,Public Sector,26,1833000,1191450
+2026-06-15,ORD1530,Abuja,Digital Products,Online,Retail,33,1336500,641520
+2026-06-18,ORD1531,Port Harcourt,Core Services,Partners,Enterprise,5,365000,178850
+2026-06-21,ORD1532,Kano,Enterprise Solutions,Corporate,SME,12,516000,258000
+2026-06-24,ORD1533,Ibadan,Consulting,Direct Sales,Public Sector,19,1434500,731595
+2026-06-27,ORD1534,Lagos,Premium Services,Online,Retail,26,1183000,615160
+2026-06-30,ORD1535,Abuja,Digital Products,Partners,Enterprise,33,2574000,1364220
+2026-06-03,ORD1536,Port Harcourt,Core Services,Corporate,SME,5,240000,129600
+2026-06-06,ORD1537,Kano,Enterprise Solutions,Direct Sales,Public Sector,12,216000,118800
+2026-06-09,ORD1538,Ibadan,Consulting,Online,Retail,19,959500,537320
+2026-06-12,ORD1539,Lagos,Premium Services,Partners,Enterprise,26,533000,303810
+2026-06-15,ORD1540,Abuja,Digital Products,Corporate,SME,33,1749000,1014420
+2026-07-25,ORD1541,Lagos,Core Services,Direct Sales,Retail,22,946000,567600
+2026-07-28,ORD1542,Abuja,Enterprise Solutions,Online,Enterprise,29,2189500,1335595
+2026-07-31,ORD1543,Port Harcourt,Consulting,Partners,SME,36,1638000,1015560
+2026-07-03,ORD1544,Kano,Premium Services,Corporate,Public Sector,8,624000,393120
+2026-07-06,ORD1545,Ibadan,Digital Products,Direct Sales,Retail,15,720000,460800
+2026-07-09,ORD1546,Lagos,Core Services,Online,Enterprise,22,396000,257400
+2026-07-12,ORD1547,Abuja,Enterprise Solutions,Partners,SME,29,1464500,702960
+2026-07-15,ORD1548,Port Harcourt,Consulting,Corporate,Public Sector,36,738000,361620
+2026-07-18,ORD1549,Kano,Premium Services,Direct Sales,Retail,8,424000,212000
+2026-07-21,ORD1550,Ibadan,Digital Products,Online,Enterprise,15,345000,175950
+2026-07-24,ORD1551,Lagos,Core Services,Partners,SME,22,1221000,634920
+2026-07-27,ORD1552,Abuja,Enterprise Solutions,Corporate,Public Sector,29,739500,391935
+2026-07-30,ORD1553,Port Harcourt,Consulting,Direct Sales,Retail,36,2088000,1127520
+2026-07-02,ORD1554,Kano,Premium Services,Online,Enterprise,8,224000,123200
+2026-07-05,ORD1555,Ibadan,Digital Products,Partners,SME,15,907500,508200
+2026-07-08,ORD1556,Lagos,Core Services,Corporate,Public Sector,22,671000,382470
+2026-07-11,ORD1557,Abuja,Enterprise Solutions,Direct Sales,Retail,29,1827000,1059660
+2026-07-14,ORD1558,Port Harcourt,Consulting,Online,Enterprise,36,1188000,700920
+2026-08-01,ORD1559,Abuja,Premium Services,Partners,Public Sector,25,575000,350750
+2026-08-04,ORD1560,Port Harcourt,Digital Products,Corporate,Retail,32,1776000,1101120
+2026-08-07,ORD1561,Kano,Core Services,Direct Sales,Enterprise,4,102000,64260
+2026-08-10,ORD1562,Ibadan,Enterprise Solutions,Online,SME,11,638000,408320
+2026-08-13,ORD1563,Lagos,Consulting,Partners,Public Sector,18,504000,327600
+2026-08-16,ORD1564,Abuja,Premium Services,Corporate,Retail,25,1512500,726000
+2026-08-19,ORD1565,Port Harcourt,Digital Products,Direct Sales,Enterprise,32,976000,478240
+2026-08-22,ORD1566,Kano,Core Services,Online,SME,4,252000,126000
+2026-08-25,ORD1567,Ibadan,Enterprise Solutions,Partners,Public Sector,11,363000,185130
+2026-08-28,ORD1568,Lagos,Consulting,Corporate,Retail,18,1179000,613080
+2026-08-31,ORD1569,Abuja,Premium Services,Direct Sales,Enterprise,25,887500,470375
+2026-08-03,ORD1570,Port Harcourt,Digital Products,Online,SME,32,2176000,1175040
+2026-08-06,ORD1571,Kano,Core Services,Partners,Public Sector,4,152000,83600
+2026-08-09,ORD1572,Ibadan,Enterprise Solutions,Corporate,Retail,11,775500,434280
+2026-08-12,ORD1573,Lagos,Consulting,Direct Sales,Enterprise,18,729000,415530
+2026-08-15,ORD1574,Abuja,Premium Services,Online,SME,25,1825000,1058500
+2026-08-18,ORD1575,Port Harcourt,Digital Products,Partners,Public Sector,32,1376000,811840
+2026-08-21,ORD1576,Kano,Core Services,Corporate,Retail,4,302000,181200
+2026-09-15,ORD1577,Port Harcourt,Enterprise Solutions,Direct Sales,SME,28,1834000,1137080
+2026-09-18,ORD1578,Kano,Consulting,Online,Public Sector,35,1242500,782775
+2026-09-21,ORD1579,Ibadan,Premium Services,Partners,Retail,7,476000,304640
+2026-09-24,ORD1580,Lagos,Digital Products,Corporate,Enterprise,14,532000,345800
+2026-09-27,ORD1581,Abuja,Core Services,Direct Sales,SME,21,1480500,710640
+2026-09-30,ORD1582,Port Harcourt,Enterprise Solutions,Online,Public Sector,28,1134000,555660
+2026-09-03,ORD1583,Kano,Consulting,Partners,Retail,35,2555000,1277500
+2026-09-06,ORD1584,Ibadan,Premium Services,Corporate,Enterprise,7,301000,153510
+2026-09-09,ORD1585,Lagos,Digital Products,Direct Sales,SME,14,1057000,549640
+2026-09-12,ORD1586,Abuja,Core Services,Online,Public Sector,21,955500,506415
+2026-09-15,ORD1587,Port Harcourt,Enterprise Solutions,Partners,Retail,28,2184000,1179360
+2026-09-18,ORD1588,Kano,Consulting,Corporate,Enterprise,35,1680000,924000
+2026-09-21,ORD1589,Ibadan,Premium Services,Direct Sales,SME,7,126000,70560
+2026-09-24,ORD1590,Lagos,Digital Products,Online,Public Sector,14,707000,402990
+2026-09-27,ORD1591,Abuja,Core Services,Partners,Retail,21,430500,249690
+2026-09-30,ORD1592,Port Harcourt,Enterprise Solutions,Corporate,Enterprise,28,1484000,875560
+2026-09-03,ORD1593,Kano,Consulting,Direct Sales,SME,35,805000,483000
+2026-09-06,ORD1594,Ibadan,Premium Services,Online,Public Sector,7,388500,236985
+2026-10-15,ORD1595,Kano,Digital Products,Partners,Enterprise,31,1410500,888615
+2026-10-18,ORD1596,Ibadan,Core Services,Corporate,SME,3,234000,149760
+2026-10-21,ORD1597,Lagos,Enterprise Solutions,Direct Sales,Public Sector,10,480000,312000
+2026-10-24,ORD1598,Abuja,Consulting,Online,Retail,17,306000,146880
+2026-10-27,ORD1599,Port Harcourt,Premium Services,Partners,Enterprise,24,1212000,593880
+2026-10-30,ORD1600,Kano,Digital Products,Corporate,SME,31,635500,317750
+2026-10-02,ORD1601,Ibadan,Core Services,Direct Sales,Public Sector,3,159000,81090
+2026-10-05,ORD1602,Lagos,Enterprise Solutions,Online,Retail,10,230000,119600
+2026-10-08,ORD1603,Abuja,Consulting,Partners,Enterprise,17,943500,500055
+2026-10-11,ORD1604,Port Harcourt,Premium Services,Corporate,SME,24,612000,330480
+2026-10-14,ORD1605,Kano,Digital Products,Direct Sales,Public Sector,31,1798000,988900
+2026-10-17,ORD1606,Ibadan,Core Services,Online,Retail,3,84000,47040
+2026-10-20,ORD1607,Lagos,Enterprise Solutions,Partners,Enterprise,10,605000,344850
+2026-10-23,ORD1608,Abuja,Consulting,Corporate,SME,17,518500,300730
+2026-10-26,ORD1609,Port Harcourt,Premium Services,Direct Sales,Public Sector,24,1512000,892080
+2026-10-29,ORD1610,Kano,Digital Products,Online,Retail,31,1023000,613800
+2026-10-01,ORD1611,Ibadan,Core Services,Partners,Enterprise,3,196500,119865
+2026-10-04,ORD1612,Lagos,Enterprise Solutions,Corporate,SME,10,355000,220100
+2026-11-29,ORD1613,Ibadan,Consulting,Direct Sales,Retail,34,867000,554880
+2026-11-02,ORD1614,Lagos,Premium Services,Online,Enterprise,6,348000,226200
+2026-11-05,ORD1615,Abuja,Digital Products,Partners,SME,13,364000,174720
+2026-11-08,ORD1616,Port Harcourt,Core Services,Corporate,Public Sector,20,1210000,592900
+2026-11-11,ORD1617,Kano,Enterprise Solutions,Direct Sales,Retail,27,823500,411750
+2026-11-14,ORD1618,Ibadan,Consulting,Online,Enterprise,34,2142000,1092420
+2026-11-17,ORD1619,Lagos,Premium Services,Partners,SME,6,198000,102960
+2026-11-20,ORD1620,Abuja,Digital Products,Corporate,Public Sector,13,851500,451295
+2026-11-23,ORD1621,Port Harcourt,Core Services,Direct Sales,Retail,20,710000,383400
+2026-11-26,ORD1622,Kano,Enterprise Solutions,Online,Enterprise,27,1836000,1009800
+2026-11-29,ORD1623,Ibadan,Consulting,Partners,SME,34,1292000,723520
+2026-11-02,ORD1624,Lagos,Premium Services,Corporate,Public Sector,6,423000,241110
+2026-11-05,ORD1625,Abuja,Digital Products,Direct Sales,Retail,13,526500,305370
+2026-11-08,ORD1626,Port Harcourt,Core Services,Online,Enterprise,20,1460000,861400
+2026-11-11,ORD1627,Kano,Enterprise Solutions,Partners,SME,27,1161000,696600
+2026-11-14,ORD1628,Ibadan,Consulting,Corporate,Public Sector,34,2567000,1565870
+2026-11-17,ORD1629,Lagos,Premium Services,Direct Sales,Retail,6,273000,169260
+2026-11-20,ORD1630,Abuja,Digital Products,Online,Enterprise,13,1014000,638820
+2026-12-29,ORD1631,Lagos,Core Services,Partners,Public Sector,2,136000,88400
+2026-12-01,ORD1632,Abuja,Enterprise Solutions,Corporate,Retail,9,342000,164160
+2026-12-04,ORD1633,Port Harcourt,Consulting,Direct Sales,Enterprise,16,1128000,552720
+2026-12-07,ORD1634,Kano,Premium Services,Online,SME,23,931500,465750
+2026-12-10,ORD1635,Ibadan,Digital Products,Partners,Public Sector,30,2190000,1116900
+2026-12-13,ORD1636,Lagos,Core Services,Corporate,Retail,2,86000,44720
+2026-12-16,ORD1637,Abuja,Enterprise Solutions,Direct Sales,Enterprise,9,679500,360135
+2026-12-19,ORD1638,Port Harcourt,Consulting,Online,SME,16,728000,393120
+2026-12-22,ORD1639,Kano,Premium Services,Partners,Public Sector,23,1794000,986700
+2026-12-25,ORD1640,Ibadan,Digital Products,Corporate,Retail,30,1440000,806400
+2026-12-28,ORD1641,Lagos,Core Services,Direct Sales,Enterprise,2,36000,20520
+2026-12-31,ORD1642,Abuja,Enterprise Solutions,Online,SME,9,454500,263610
+2026-12-03,ORD1643,Port Harcourt,Consulting,Partners,Public Sector,16,328000,193520
+2026-12-06,ORD1644,Kano,Premium Services,Corporate,Retail,23,1219000,731400
+2026-12-09,ORD1645,Ibadan,Digital Products,Direct Sales,Enterprise,30,690000,420900
+2026-12-12,ORD1646,Lagos,Core Services,Online,SME,2,111000,68820
+2026-12-15,ORD1647,Abuja,Enterprise Solutions,Partners,Public Sector,9,229500,144585
+2026-12-18,ORD1648,Port Harcourt,Consulting,Corporate,Retail,16,928000,593920
